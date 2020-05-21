@@ -420,7 +420,7 @@
 
 
 /*------------MOBILE-----------*/
-@media screen and (min-width: 1px) and (max-width: 1242px) {
+@media screen and (min-width: 1px) and (max-width: 768px) {
 
 .logo_container {
     display: none;
