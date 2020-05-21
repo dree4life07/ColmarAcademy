@@ -428,6 +428,9 @@
 .navigation li {
     display: none;
 }
+.banner {
+    display: none;
+}
 .banner_image {
     display: none;
 }
